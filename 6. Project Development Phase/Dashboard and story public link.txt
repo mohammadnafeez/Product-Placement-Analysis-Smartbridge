@@ -1,0 +1,9 @@
+
+Tableau Public Dashboard Link
+
+    https://public.tableau.com/views/ProductPlacementAnalysis_17717564592790/PRODUCTPLACEMENTANALYSIS-DASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+Tableau Public Story Link
+
+    https://public.tableau.com/views/ProductPlacementAnalysis_17717564592790/PRODUCTPLACEMENTANALYSIS-STORY?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
